@@ -1,6 +1,6 @@
 'use client';
 
-import { Stat } from '@/types';
+import type { Stat } from '@/types';
 
 function calculateAge(birthYear: number, birthMonth: number): number {
   const today = new Date();
