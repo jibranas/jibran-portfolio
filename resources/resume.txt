@@ -1,91 +1,146 @@
 Jibran Asif Shareef
-469.260.9579; jibran1994@hotmail.com
-https://in.linkedin.com/in/jibranasifshareef
-BUSINESS EXPERIENCE
-Honeywell Intelligrated, Software division, 13560 Morris Rd Suite 3510, Alpharetta, GA 30004
-September 2021 – Present
-Product Manager (Warehouse Automation Software)
-• Executed on go-to-market strategy for integrating WES (Warehouse Execution System) with third-party
-ACR/AMR robotic vendors, aimed at enhancing operational efficiency and positioning the company to unlock
-new revenue streams by attracting clients with advanced automation needs, target pipeline of $400m
+469.260.9579 | jibran1994@hotmail.com | linkedin.com/in/jibranasifshareef
 
-• Supported senior product managers in developing WES product roadmaps and timelines, balancing short-
-term demands with long-term strategic goals
+SUMMARY
+Product Manager and builder at heart who loves creating products from concept to launch. I lead product strategy,
+development, design, and go-to-market—working cross-functionally with engineering, design, and content teams to
+deliver features that drive engagement, retention, and measurable outcomes. Passionate about edtech and building
+personalized learning experiences that help learners stay on track, feel supported, and achieve their goals.
 
-• Integrated WES with a Pick/Put to Light solutions to enable automated order fulfillment workflows,
-improving picking accuracy, reducing manual errors, and enhancing overall warehouse efficiency.
-• Enhanced ASRS storage rules to support operational exception scenarios to increase storage throughput by
-intelligent exception scenario handling
-• Improved the Automated Storage & Retrieval (ASRS) Operational Dashboard to reflect Key Performance
-Indicators to help storage and retrieval throughput and data driven troubleshooting for quick system
-recovery
-• Supported Product Demos of ASRS and GTP (Goods to Person) systems to key customers and prospective
-clients
-• Led the discovery of an LMS (Labor Management System) upgrade to incorporate real time Labor
-performance KPIs & Intelligent Staff Planning based on production data resulting in a clear road map for
-delivery.
-• Collaborated with customers to understand their problems and captured these insights in comprehensive
-customer solutions documents, ensuring tailored and effective solutions for each client's unique needs
-• Collaborated with stakeholders from WES, WMS (Warehouse Management Systems), WCS (Warehouse
-Controls Systems) and Business Intelligence teams to gather business problem statements
-• Worked with cross-functional teams to collect and analyze customer feedback, driving enhancements to
-product features for improved user satisfaction
-• Led cross-functional teams in the development and launch of new features, ensuring alignment with business
-goals and customer needs
-• Applied Agile Scrum methodology and processes to convert features into user stories within the team’s
-backlog while prioritizing this backlog to work on stakeholder priorities
-• Validated Quality Engineer testing of User stories to ensure results aligned with design
-Honeywell Intelligrated, Software division, 13560 Morris Rd Suite 3510, Alpharetta, GA 30004
-June 2018 – September 2021
-Warehouse Application Engineer (Solutions Consultant)
-• Supervised a team of Solution Consultants to implement Warehouse Execution System (WES) in one of USA’s
-leading retail company integrated with conveyor routing Machine Control software (WCS, PLC, Allen Bradley,
-HMI) and Warehouse Order Management Systems (WMS)
-• Led/Participated in meetings to gather project business process, functional and technical system requirements
-to design a Warehouse Execution System for one of USA’s leading Online Grocery store project totaling $50
-million in revenue, and one of USA’s leading retail company project totaling $70 million in revenue
-• Designed Use Case and process flow diagrams for the WES to provide development with solutions documents
+PROFESSIONAL EXPERIENCE
 
-• Conducted 5+ levels of testing including functional, regression, user acceptance, integration and performance
-to verify the client’s needs are met
-• Trained onsite users on how to use and adopt WES, facilitating smooth transitions
-• Designed a business process for inventory removal by identifying key use cases and system requirements
-• Built operational reports, data visualizations, dashboards and ad hoc reports to capture key performance
-indicators by scripting complex SQL queries and importing them as datasets in MicroStrategy, Tableau, Excel
-• Profited the client by 21% increase in order allocation by identifying a design defect in the Automated Storage
-and Retrieval System causing order short allocations when inventory is in transit, used complex SQL queries and
-pooled data from multiple restored snapshots of the production database in MS SQL Server for analysis
-• Developed an automated warehouse inventory clean up tool in python, both UI and backend, and delivered it
-to the customer that helped decrease order cancellations and improved customer business
-• Selected to be on a UI and UX advisory panel to provide expert, hands on software feedback
-• Received 3 Go Beyond Bravo Awards for being committed on implementing WES for customer sites,
-commissioning a new subsystem, supporting deployments and operations
-• Received 2 Go Beyond Bravo Awards for providing critical customer operations support as well as working
-closely with the customer and development teams to deliver key project milestones, enabling to meet critical
-rate goals and customer regression testing timelines, and showing commitment towards overall software and
-system performance, and willingness to conduct deep investigations on potential software bugs
-Honeywell Intelligrated, Software division, 13560 Morris Rd Suite 3510, Alpharetta, GA 30004
-August 2017 – April 2018
-Project Coordinator Co-op
-• Published 25+ interactive weekly/monthly/quarterly dashboards/reports using MicroStrategy and custom SQL
-queries for past/projected resource capacity utilization analysis, Gantt chart and annual operations planning,
-schedule analysis and resource assignment for active and sales reserved projects
-• Optimized 12+ complex SQL scripts to analyze large datasets, reducing query execution time by 95%
-• Refined database table design to resolve data inconsistencies which improved accuracy of 25+ reports
-• Analyzed schedule plan, price and work breakdown structures for 30+ Honeywell Software Projects with JIRA
-• Coordinated with senior Project, Program Managers and Sales team to guide optimal resource allocation
+Honeywell Intelligrated, Alpharetta, GA
+Product Manager – Warehouse Automation Software                                    September 2021 – Present
+
+• Led product strategy and roadmap for complex, user-facing warehouse software platforms serving both B2B
+  enterprise clients and end users, driving discovery and delivery of features that improved user engagement,
+  adoption, and measurable outcomes
+
+• Drove cross-functional execution with engineering, design, and business teams for integrating WES (Warehouse
+  Execution System) with third-party robotic vendors (ACR/AMR), supporting a $400M pipeline by translating
+  user insights into scalable, personalized product experiences
+
+• Led discovery and experimentation for Labor Management System (LMS) upgrade incorporating real-time
+  performance KPIs and intelligent staff planning, using analytics and user research to deliver clear roadmap
+
+• Enhanced ASRS (Automated Storage & Retrieval System) operational dashboards with progress tracking and key
+  performance indicators, improving user success metrics and enabling data-driven troubleshooting
+
+• Integrated WES with Pick/Put to Light solutions to create intuitive, self-service workflows that improved
+  accuracy and reduced manual errors—demonstrating ability to build experiences that feel seamless at scale
+
+• Used learner and user research, analytics, and experimentation to deeply understand pain points and translate
+  insights into product requirements that directly impacted success metrics
+
+• Led product demos to key customers, using strong storytelling skills to turn complex user needs into clear
+  product vision and value propositions
+
+• Collaborated cross-functionally across WES, WMS, WCS, and Business Intelligence teams to align product
+  vision and ensure delivery met both B2C and B2B user needs
+
+Key learning: Designing end-to-end user journeys, aligning stakeholders around product vision, and using data,
+experimentation, and feedback to drive engagement, retention, and measurable outcomes
+
+
+Application Engineer – Solutions Consultant                                         June 2018 – September 2021
+
+• Worked closely with enterprise users to implement and optimize mission-critical warehouse software, gaining
+  deep insight into workflows, user success metrics, pain points, and engagement patterns
+
+• Identified product gap in ASRS causing 21% order allocation loss through analytics and user research, used
+  complex SQL analysis to diagnose root cause, partnered with engineering to deliver fix that improved
+  measurable user success outcomes
+
+• Built self-service automation tool in Python (full-stack: UI and backend) for warehouse inventory cleanup that
+  reduced user effort, decreased order cancellations, and improved operational efficiency—demonstrating ability
+  to code solutions that empower users
+
+• Supervised team of Solution Consultants implementing WES for leading U.S. retail companies, integrated with
+  WCS, PLC, and WMS systems on projects totaling $120M in revenue serving thousands of users
+
+• Led user research and requirements gathering, designed intuitive use cases and process flows, conducted
+  multi-level testing (functional, regression, UAT, integration, performance), and trained onsite users to drive
+  adoption and successful outcomes
+
+• Built progress tracking dashboards and operational reports capturing KPIs using complex SQL queries in
+  MicroStrategy, Tableau, and Excel to provide clear, actionable insights that drove user success
+
+• Selected for UI/UX advisory panel to provide expert, hands-on product feedback grounded in real user behavior
+  and engagement patterns
+
+• Received 5 Go Beyond Bravo Awards for exceptional user support, delivering critical milestones, and commitment
+  to platform performance and user satisfaction
+
+Key learning: Grounding product decisions in real user behavior, validating solutions through user feedback and
+success metrics, and bridging user needs with technical execution
+
+
+Project Coordinator Co-op                                                          August 2017 – April 2018
+
+• Built dashboards and analytics to track performance and capacity across 30+ initiatives, delivering clear
+  insights for faster decision-making
+
+• Published 25+ interactive weekly/monthly/quarterly dashboards using MicroStrategy and custom SQL queries
+  for resource capacity analysis, Gantt charts, and operations planning
+
+• Optimized 12+ complex SQL scripts analyzing large datasets, reducing query execution time by 95%
+
+• Refined database table design to resolve data inconsistencies, improving accuracy across 25+ reports
+
+Key learning: Using metrics and visualization to tell clear stories and guide decisions at scale
+
+
+SIDE PROJECTS (EdTech & Learning Products)
+
+HH Courses (hhcourses.com) – Online Learning Platform
+Built and launched engaging online learning platform delivering personalized, bite-sized, self-paced lessons that
+drive learner engagement and retention. Features include: quizzes for instant feedback, progress tracking
+dashboards, leaderboards for peer motivation, and streak mechanics to reinforce learning habits. Designed learner
+journey to help students stay on track, feel supported, and achieve their goals—demonstrating deep understanding
+of what makes learning experiences motivating and effective at scale.
+
+Tafseel AI (artificial intelligence) (tafseelsearch.com) – AI-Powered Learning Assistant
+Built and launched AI-powered search and learning assistant making Tafseer (Quranic explanations) accessible
+and intuitive. Solves critical user pain point of navigating lengthy content by using AI to deliver personalized,
+relevant insights. Demonstrates experience building AI-powered features that enhance learning experiences.
+
+Quranic Grammar (quranic-arabic-rules.vercel.app) – Personalized Learning Platform
+Built and launched personalized Arabic grammar learning platform enabling professionals to learn in bite-sized
+15-minute daily lessons. Features progress tracking and content delivery optimized for learners balancing busy
+schedules with learning goals—demonstrating ability to design learner experiences that drive program completion.
+
+Color Deen (colordeen.com) – AI-Powered Interactive Learning Content
+Created AI-generated, personalized educational coloring books that blend interactive activity with meaningful
+learning content. Uses AI to personalize experiences for individual learners, demonstrating understanding of how
+to leverage emerging technologies to enhance student engagement and learning outcomes.
+
+
 EDUCATION
-The University of Texas at Dallas May 2018
-M.S., Information Technology and Management GPA 3.88
-Concentration in Business Data Intelligence and Business Analysis
-Muffakham Jah College of Engineering and Technology June 2016
+
+The University of Texas at Dallas                                                                  May 2018
+M.S., Information Technology and Management | GPA: 3.88
+Concentration: Business Data Intelligence and Business Analysis
+
+Muffakham Jah College of Engineering and Technology                                               June 2016
 B.E., Electronics and Communication
+
+
 TECHNICAL SKILLS
-Certifications: Microsoft T. Associate in Cloud Fundamentals, MTA in HTML5 App Development Fundamentals
-BI Tools: SAP NetWeaver, SAP BusinessObjects, SAP BEx Components, SAP HANA, SAP Predictive Analytics,
-SAP Lumira Web Intelligence, Tableau, SAS Enterprise Miner, RStudio, MicroStrategy, Power BI,
-Grafana
-Programming: R, SQL, SAS, Python, JavaScript
-Software: Microsoft Azure, MS Excel, MS Access, MS Project, JIRA, MS Visio, Eclipse, Lucid Charts, yEd, AppD
-AppDynamics, RabbitMQ, Elasticsearch
+
+Product Management: Agile/Scrum, Product Roadmapping, User Stories, Cross-functional Leadership, User Research,
+Learner Analytics, Data-driven Decision Making, A/B Testing & Experimentation, Go-to-Market Strategy, Product
+Vision & Storytelling, Engagement & Retention Optimization
+
+EdTech & Learning: Learning Platform Development, Content Delivery Systems, Progress Tracking, Personalized
+Learning Paths, Student Success Metrics, AI-Powered Learning Features, Learner Journey Design
+
+Development: Python, JavaScript, SQL, R, SAS, HTML5, Full-stack development (UI and backend), AI Integration
+
+BI & Analytics: MicroStrategy, Tableau, Power BI, Grafana, SAP BusinessObjects, SAP HANA, SAS Enterprise Miner,
+Cohort Analysis, Experimentation Frameworks
+
+Tools & Platforms: JIRA, MS Azure, Elasticsearch, RabbitMQ, AppDynamics, MS Visio, Lucid Charts, MS Project
+
 Databases: MS SQL Server, Oracle, SAP Star Schema
+
+Certifications: Microsoft Technology Associate – Cloud Fundamentals, HTML5 App Development Fundamentals
