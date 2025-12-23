@@ -9,8 +9,7 @@ export default function Bio() {
 
       <div className="space-y-4 text-gray-700">
         <p className="text-lg md:text-2xl leading-relaxed">
-          I&apos;m a <span className="font-semibold text-purple-700">builder at heart who loves to create products from concept to launch</span>—and
-          I mean <span className="italic">everything</span>: product strategy, development, design, and go-to-market.
+          I&apos;m a <span className="font-semibold text-purple-700">builder at heart </span>who loves to create products from concept to launch: product strategy, development, design, and go-to-market.
           There&apos;s nothing more rewarding than crafting experiences that genuinely empower people.
         </p>
 
@@ -20,7 +19,7 @@ export default function Bio() {
         </p>
 
         <p className="text-sm md:text-lg leading-relaxed">
-          At night and on weekends, I dwell in <span className="font-semibold text-purple-700">edtech</span>—building
+          At night and on weekends, I dwell in <span className="font-semibold text-purple-700">edtech</span>: building
           products that help learners succeed, stay engaged, and achieve their goals.
         </p>
 
@@ -34,7 +33,7 @@ export default function Bio() {
 
       <div className="relative bg-[#f5f9ff] border border-[#e2e8f0] rounded-2xl px-5 py-6 mt-6 flex items-center gap-3 shadow-sm">
         <p className="text-sm md:text-lg font-bold text-[#283d51] leading-snug flex flex-wrap items-center gap-2">
-          Now, I’m looking to tackle my next challenge — shaping learning products where design, technology, and strategy come together.
+          Now, I’m looking to tackle my next challenge: shaping learning products where design, technology, and strategy come together.
           I’d love to contribute to{' '}
           <span className="text-[#175cff] font-extrabold inline align-middle" style={{whiteSpace: 'nowrap'}}>
             Udacity

@@ -42,7 +42,7 @@ const projects: SimpleProject[] = [
     id: "3",
     title: "HH COURSES",
     description: "Online learning platform helping students master Islamic studies.",
-    fullDescription: "HH Courses was born from my own experience of learning amidst a busy professional and family life. I discovered that bite-sized, self-paced learning made it possible to tackle complex studies without feeling overwhelmed. Inspired by this, I built HH Courses—an engaging platform that delivers studies in small, manageable lessons. The app includes quizzes for instant feedback, leaderboards for friendly peer competition, streaks to reinforce learning habits, and many other features designed to make learning enjoyable, effective, and easy to stick with.",
+    fullDescription: "HH Courses was born from my own experience of learning amidst a busy professional and family life. I discovered that bite-sized, self-paced learning made it possible to tackle complex studies without feeling overwhelmed. Inspired by this, I built HH Courses: an engaging platform that delivers studies in small, manageable lessons. The app includes quizzes for instant feedback, leaderboards for friendly peer competition, streaks to reinforce learning habits, and many other features designed to make learning enjoyable, effective, and easy to stick with.",
     bgColor: "bg-[#f5f1e8]",
     type: "B2C",
     technologies: ["EdTech", "Course Platform", "Progress Tracking", "Student Engagement", "Learning Analytics"],
@@ -78,7 +78,7 @@ const projects: SimpleProject[] = [
     id: "6",
     title: "QURANIC GRAMMAR",
     description: "Arabic grammar learning platform breaking down the language of the Quran.",
-    fullDescription: "I learnt Quranic Arabic Grammar after work hours between 2018-2022. It wasn’t that the course was long, but it was me balancing my professional time with studies. I would come home from work and spend about 15 minutes learning a grammar rule with examples—and that was enough to keep me motivated for the next day! Thinking of other professionals with a dream to deeply understand the Qur’an, I built this app so they too can balance a busy life while learning a simple new grammar rule every day, with examples drawn directly from the Qur’an.",
+    fullDescription: "I learnt Quranic Arabic Grammar after work hours between 2018-2022. It wasn’t that the course was long, but it was me balancing my professional time with studies. I would come home from work and spend about 15 minutes learning a grammar rule with examples, and that was enough to keep me motivated for the next day! Thinking of other professionals with a dream to deeply understand the Qur’an, I built this app so they too can balance a busy life while learning a simple new grammar rule every day, with examples drawn directly from the Qur’an.",
     bgColor: "bg-[#f5f1e8]",
     type: "B2C",
     technologies: ["EdTech", "Language Learning", "Interactive Lessons", "Visual Learning", "Progress Tracking"],
@@ -103,7 +103,7 @@ export default function Projects() {
       </h2>
 
       <p className="text-lg md:text-2xl leading-relaxed mb-8">
-  I’m a creator at heart, both in my work and in my free time, where I build products that solve real problems—many focused on education, learning experiences, and knowledge tools. Here are a few of them:
+  I’m a creator at heart, both in my work and in my free time, where I build products that solve real problems, many focused on education, learning experiences, and knowledge tools. Here are a few of them:
 </p>
 
 

@@ -51,7 +51,7 @@ export default function Stats() {
   const stats: Stat[] = [
     { number: `${myAge}y`, label: "old, born in 1994" },
     { number: `${yearsSinceUSA}y`, label: "since moving to USA" },
-    { number: `${child1Age} + ${child2Age}`, label: "Zayd & Zunairah, my children" },
+    { number: `${child1Age} + ${child2Age}`, label: "ages of my children" },
   ];
 
   return (
