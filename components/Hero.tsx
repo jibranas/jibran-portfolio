@@ -1,6 +1,11 @@
+'use client';
+
 import Image from 'next/image';
+import { useCompany } from '@/hooks/useCompany';
 
 export default function Hero() {
+  const company = useCompany();
+
   return (
     <section className="px-2 pt-16 pb-8 md:px-8 md:py-12 max-w-7xl mx-auto">
       <div className="relative bg-gray-800 rounded-t-[2.5rem] rounded-b-2xl pt-14 pb-2 md:pt-8 md:pb-12 px-6 md:px-12">
@@ -37,13 +42,15 @@ export default function Hero() {
             </h1>
             {/* Desktop: show paragraph here */}
             <div className="hidden md:block mt-4 text-right">
-              <p className="text-2xl text-gray-200 mb-2">and I&apos;d love to be a Product Manager at</p>
+              <p className="text-2xl text-gray-200 mb-2">
+                and I&apos;d love to be a {company.role || 'Product Manager'} at
+              </p>
               <div className="flex items-center justify-end gap-3 text-3xl font-semibold text-white">
-                <span>Udacity</span>
+                <span>{company.name}</span>
                 <span className="inline-flex items-center justify-center w-10 h-10 bg-white rounded-lg">
                   <Image
-                    src="/images/Udacity_logo.png"
-                    alt="Udacity Logo"
+                    src={company.logo}
+                    alt={`${company.name} Logo`}
                     width={32}
                     height={32}
                     style={{ display: 'inline' }}
@@ -56,13 +63,15 @@ export default function Hero() {
 
         {/* Mobile: show paragraph below, spanning full width */}
         <div className="md:hidden text-sm text-gray-200 text-center">
-          <p className="mb-2">and I&apos;d love to be a Product Manager at</p>
+          <p className="mb-2">
+            and I&apos;d love to be a {company.role || 'Product Manager'} at
+          </p>
           <div className="flex items-center justify-center gap-2 text-xl font-semibold">
-            <span>Udacity</span>
+            <span>{company.name}</span>
             <span className="inline-flex items-center justify-center w-7 h-7 bg-white rounded-lg">
               <Image
-                src="/images/Udacity_logo.png"
-                alt="Udacity Logo"
+                src={company.logo}
+                alt={`${company.name} Logo`}
                 width={24}
                 height={24}
                 style={{ display: 'inline' }}

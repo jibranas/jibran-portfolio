@@ -1,142 +1,232 @@
-# Portfolio Website
+# ✨ Portfolio Company Configuration System
 
-A Next.js portfolio website based on the Zoltán Hosszú design template.
+## 🎯 Overview
 
-## Getting Started
+Your portfolio now supports **company-specific customization** through URL parameters. You can maintain separate links for different companies, each showing their unique name, logo, and role.
 
-### Development Server
+---
 
-```bash
-npm run dev
+## 🚀 Quick Start
+
+### Test It Now!
+With your dev server running, try these URLs:
+
+1. **Default (Udacity)**:  
+   `http://localhost:3000/`
+
+2. **Explicit Udacity**:  
+   `http://localhost:3000/?company=udacity`
+
+Both will show your Udacity-customized portfolio!
+
+---
+
+## 📝 Adding a New Company (3 Simple Steps)
+
+### 1️⃣ Add Logo
+Save company logo to:
+```
+/public/images/company_name_logo.png
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
-
-### Build for Production
-
-```bash
-npm run build
-npm start
+### 2️⃣ Update Config
+Edit `config/companies.ts`:
+```typescript
+google: {
+  name: "Google",
+  logo: "/images/google_logo.png",
+  role: "Product Manager",
+},
 ```
 
-## Customization Guide
-
-### 1. Personal Information
-
-Update the following components with your information:
-
-#### `components/Hero.tsx`
-- Replace `[Your Name]` with your actual name
-- Replace the placeholder profile image with your photo in `public/images/`
-- Update the tagline/description
-
-#### `components/Bio.tsx`
-- Replace `[Your Name]` with your name
-- Write your biographical narrative
-- Update the list of technologies you work with
-- Customize your learning philosophy
-
-#### `components/Stats.tsx`
-- Update the stats array with your:
-  - Age
-  - Location
-  - Family status
-  - Interests or hobbies
-
-### 2. Skills & Value Proposition
-
-#### `components/ValueProposition.tsx`
-- Replace the values array with your skills and what you bring to the table
-- Keep it to 5-7 bullet points for best impact
-
-### 3. Work Experience
-
-#### `components/Experience.tsx`
-- Update the `experiences` array with your actual work history
-- Add company logos to `public/images/`
-- Include your role, period of employment, and key achievements
-- Keep in reverse chronological order (most recent first)
-
-### 4. Projects
-
-#### `components/Projects.tsx`
-- Update the `projects` array with your actual projects
-- Add project screenshots to `public/images/`
-- Include:
-  - Short description (for the card)
-  - Full description (for the modal)
-  - Technologies used
-  - Links to live projects or repositories
-
-### 5. Images
-
-Place all images in the `public/images/` directory:
-- Profile photo: `profile.jpg` or `profile.png`
-- Company logos: `company-name.png`
-- Project screenshots: `project-1.png`, `project-2.png`, etc.
-
-Then update the image paths in the respective components.
-
-### 6. Metadata & SEO
-
-Update `app/layout.tsx`:
-- Change the title and description
-- Add any additional metadata you need
-
-## Features
-
-✓ Responsive design (mobile, tablet, desktop)
-✓ Modal system for project details
-✓ Keyboard navigation (ESC to close modals)
-✓ Smooth animations
-✓ Clean, professional styling
-✓ TypeScript for type safety
-✓ Tailwind CSS for styling
-
-## Project Structure
-
+### 3️⃣ Test & Share
 ```
-portfolio/
-├── app/
-│   ├── layout.tsx          # Root layout with metadata
-│   ├── page.tsx            # Main landing page
-│   └── globals.css         # Global styles and Tailwind
-├── components/
-│   ├── Hero.tsx            # Hero section with profile
-│   ├── Bio.tsx             # Biography section
-│   ├── Stats.tsx           # Personal statistics
-│   ├── ValueProposition.tsx # Skills/values
-│   ├── Experience.tsx      # Work timeline
-│   ├── Projects.tsx        # Projects grid
-│   └── ProjectModal.tsx    # Modal for project details
-├── types/
-│   └── index.ts            # TypeScript interfaces
-└── public/
-    └── images/             # All images go here
+Local:    http://localhost:3000/?company=google
+Deployed: https://yoursite.com/?company=google
 ```
 
-## Technologies Used
+---
 
-- Next.js 14 (App Router)
-- React 19
-- TypeScript
-- Tailwind CSS
-- Modern CSS animations
+## 📂 Files Created/Modified
 
-## Deployment
+### New Files
+- ✅ `config/companies.ts` - Company configurations
+- ✅ `hooks/useCompany.ts` - React hook for company data
+- ✅ `components/Footer.tsx` - Dynamic footer
+- ✅ `HOW-TO-USE.md` - Complete usage guide
+- ✅ `QUICK-START.md` - Quick reference
+- ✅ `README-COMPANY-SETUP.md` - Detailed documentation
+- ✅ `IMPLEMENTATION-SUMMARY.md` - Technical summary
 
-This portfolio can be easily deployed to:
-- Vercel (recommended for Next.js)
-- Netlify
-- GitHub Pages (with export)
-- Any static hosting service
+### Modified Files
+- ✅ `components/Hero.tsx` - Now uses dynamic company data
+- ✅ `app/page.tsx` - Added Suspense for client-side routing
 
-For Vercel deployment:
-```bash
-npm run build
-# Then push to GitHub and connect to Vercel
+---
+
+## 🎨 What Changes Per Company?
+
+When you visit `/?company=google` instead of `/?company=udacity`:
+
+### Hero Section
+```diff
+- "I'd love to be a Product Manager at Udacity"
++ "I'd love to be a Product Manager at Google"
 ```
 
-## License
+### Logo
+```diff
+- Shows Udacity logo
++ Shows Google logo
+```
 
-Free to use and customize for your personal portfolio.
+### Footer
+```diff
+- "Created exclusively for the Udacity Product Manager position"
++ "Created exclusively for the Google Product Manager position"
+```
+
+---
+
+## 📋 Example Companies to Add
+
+Ready-to-use configuration examples:
+
+```typescript
+// Tech Giants
+google: { name: "Google", logo: "/images/google_logo.png", role: "Product Manager" },
+apple: { name: "Apple", logo: "/images/apple_logo.png", role: "Product Manager" },
+microsoft: { name: "Microsoft", logo: "/images/microsoft_logo.png", role: "Principal PM" },
+meta: { name: "Meta", logo: "/images/meta_logo.png", role: "Product Manager" },
+amazon: { name: "Amazon", logo: "/images/amazon_logo.png", role: "Senior PM" },
+
+// Startups
+stripe: { name: "Stripe", logo: "/images/stripe_logo.png", role: "Product Manager" },
+notion: { name: "Notion", logo: "/images/notion_logo.png", role: "Product Manager" },
+shopify: { name: "Shopify", logo: "/images/shopify_logo.png", role: "Product Manager" },
+```
+
+---
+
+## 🔧 Technical Details
+
+- **Framework**: Next.js 14+ with App Router
+- **Language**: TypeScript
+- **State Management**: URL search parameters
+- **Client Side**: Uses `useSearchParams` hook
+- **Fallback**: Defaults to Udacity if no/invalid parameter
+
+---
+
+## 📖 Documentation
+
+| File | Purpose |
+|------|---------|
+| `HOW-TO-USE.md` | Complete usage guide with examples |
+| `QUICK-START.md` | Fast reference for adding companies |
+| `README-COMPANY-SETUP.md` | Detailed technical documentation |
+| `IMPLEMENTATION-SUMMARY.md` | What was implemented |
+
+---
+
+## 🎯 Next Steps
+
+1. **Test Current Setup**
+   ```bash
+   # Dev server should be running
+   # Visit: http://localhost:3000/?company=udacity
+   ```
+
+2. **Add Your First New Company**
+   - Find/download a company logo
+   - Save to `/public/images/`
+   - Add to `config/companies.ts`
+   - Test locally
+
+3. **Deploy**
+   - Deploy your site (Vercel/Netlify/etc.)
+   - Test the live URLs
+   - Share company-specific links in applications
+
+4. **Track Applications**
+   - Create a spreadsheet with URLs
+   - Track which company got which link
+   - Monitor responses
+
+---
+
+## 💡 Pro Tips
+
+1. **Organize Logos**: Keep a dedicated logos folder on your computer
+2. **Track Everything**: Use a spreadsheet to track all company URLs
+3. **Test First**: Always test locally before sharing
+4. **Consistent Naming**: Use lowercase, URL-friendly company keys
+5. **High Quality**: Use high-res, square logos (200x200px minimum)
+
+---
+
+## 🐛 Troubleshooting
+
+| Problem | Solution |
+|---------|----------|
+| Logo not showing | Check file path in config matches actual file |
+| Company name not changing | Verify URL parameter matches config key exactly |
+| Shows default (Udacity) | Company key doesn't exist in config or is misspelled |
+| Page stuck on "Loading..." | Refresh the page, check dev server console |
+
+---
+
+## ✅ Checklist
+
+- [x] Created company configuration system
+- [x] Updated Hero component with dynamic data
+- [x] Created dynamic Footer component
+- [x] Added Suspense boundary for client-side routing
+- [x] Created comprehensive documentation
+- [x] Added example company configurations
+- [x] Tested with Udacity (default company)
+- [ ] Add logos for other target companies
+- [ ] Add other companies to config
+- [ ] Test all company URLs
+- [ ] Deploy to production
+- [ ] Share company-specific URLs
+
+---
+
+## 🎉 Summary
+
+Your portfolio is now **fully configurable** for multiple companies! You can:
+
+✅ Maintain separate links for each company  
+✅ Customize company name, logo, and role  
+✅ Track applications with unique URLs  
+✅ Easily add new companies in 3 steps  
+
+**Current Status**: ✅ Working with Udacity as default  
+**Ready For**: Adding any company you want  
+
+---
+
+## 📞 Quick Reference
+
+### Add Company
+1. Logo → `/public/images/company_logo.png`
+2. Config → `config/companies.ts`
+3. Test → `http://localhost:3000/?company=key`
+
+### Share Link
+```
+https://your-portfolio.com/?company=google
+```
+
+### Default Company
+If no `?company=` parameter or invalid key → Shows Udacity
+
+---
+
+**You're all set! Good luck with your applications! 🚀**
+
+For detailed guides, see:
+- 📖 `HOW-TO-USE.md` - Complete guide
+- ⚡ `QUICK-START.md` - Quick reference
+- 📚 `README-COMPANY-SETUP.md` - Full documentation

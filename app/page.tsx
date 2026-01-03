@@ -1,11 +1,15 @@
+'use client';
+
+import { Suspense } from 'react';
 import Hero from '@/components/Hero';
 import Bio from '@/components/Bio';
 import Stats from '@/components/Stats';
 import ValueProposition from '@/components/ValueProposition';
 import Experience from '@/components/Experience';
 import Projects from '@/components/Projects';
+import Footer from '@/components/Footer';
 
-export default function Home() {
+function HomeContent() {
   return (
     <main className="min-h-screen bg-blue-50">
       <Hero />
@@ -21,13 +25,19 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Custom Footer */}
-      <footer className="max-w-4xl mx-auto px-6 py-8 text-center mb-12">
-        <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
-          This site was created exclusively for the <span className="font-bold text-[#3d2852]">Udacity Product Manager position</span>,
-          so you should know, I'm very excited you're here! 🎉
-        </p>
-      </footer>
+      <Footer />
     </main>
+  );
+}
+
+export default function Home() {
+  return (
+    <Suspense fallback={
+      <main className="min-h-screen bg-blue-50 flex items-center justify-center">
+        <div className="text-gray-600">Loading...</div>
+      </main>
+    }>
+      <HomeContent />
+    </Suspense>
   );
 }
