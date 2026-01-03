@@ -18,6 +18,12 @@ export const companies: Record<string, CompanyConfig> = {
     logo: "/images/Coursera_logo.png",
     role: "Product Manager",
   },
+
+  hubspot: {
+    name: "Hubspot",
+    logo: "/images/Hubspot_logo.png",
+    role: "Product Manager",
+  },
   // google: {
   //   name: "Google",
   //   logo: "/images/google_logo.png",

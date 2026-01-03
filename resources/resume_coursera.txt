@@ -1,0 +1,177 @@
+Jibran Asif Shareef
+469.260.9579 | jibran1994@hotmail.com | linkedin.com/in/jibranasifshareef
+
+SUMMARY
+Product Manager and builder who thrives in ambiguity, leading products from 0-1 through concept to launch and 
+measurable impact. I operate at the intersection of strategic thinking and hands-on execution, driving product vision, 
+roadmap, and cross-functional delivery with Engineering, Design, and Data teams. Deeply curious about customers and 
+passionate about edtech, I leverage AI-powered features, data-driven decision making, and rapid prototyping to deliver 
+integrated solutions that scale to learners. Customer-centric, builder mindset focused on transforming 
+lives through learning.
+
+PROFESSIONAL EXPERIENCE
+
+Honeywell Intelligrated, Alpharetta, GA
+Product Manager – Warehouse Automation Software                                    September 2021 – Present
+
+Strategic Vision & Roadmap Ownership
+• Define and drive product strategy and own roadmap for complex enterprise software platforms serving Fortune 500 
+  clients and thousands of end users, navigating ambiguity while translating customer insights and market trends into 
+  integrated solutions that scale globally
+
+• Led 0-1 product development for WES (Warehouse Execution System) integration with third-party robotic vendors 
+  (ACR/AMR), driving go-to-market strategy from ideation through launch and supporting $400M pipeline with proven 
+  measurable outcomes post-launch
+
+• Drive product vision for Labor Management System (LMS) upgrade incorporating AI-powered decision support, 
+  real-time KPIs, and intelligent planning—demonstrating ability to rapidly prototype, test, and iterate solutions 
+  while transitioning from traditional UI to AI-driven product experiences
+
+Cross-functional Leadership & Execution
+• Partner with Engineering, Design, and Data teams to deliver product features, leading execution from 
+  ideation and analysis through development and launch with measurable business impact
+
+• Collaborate across WES, WMS, WCS, and Business Intelligence teams to align product vision and ensure integrated 
+  end-to-end experiences serving both B2B enterprise and B2C user needs
+
+• Lead product demos to key customers, using strong storytelling to translate complex customer needs into clear 
+  product vision and compelling value propositions that inspire teams to think bigger
+
+Data-Driven Product Development
+• Leverage data, customer feedback, and experimentation to inform decisions, validate solutions, and 
+  continuously improve—demonstrating deep curiosity to dive deep into analytics and user behavior to ground 
+  understanding of customer needs and product experience
+
+• Enhanced ASRS operational dashboards with progress tracking, KPIs, and data-driven insights that improved user 
+  success metrics and enabled faster troubleshooting at scale
+
+• Built intuitive, integrated workflows (WES + Pick/Put to Light) that improved accuracy, reduced errors, and created 
+  seamless self-service experiences demonstrating ability to design end-to-end integrated experiences
+
+Innovation & Customer Centricity
+• Exhibit deep customer-centric curiosity to understand all elements influencing user experience, offering 
+  comprehensive integrated solutions addressing real needs and measurable positive impact on users' lives
+
+• Use learner research, analytics, and experimentation to deeply understand pain points and translate insights into 
+  product requirements driving engagement, retention, and customer success
+
+• Mentor peers and contribute to building high-performing product organization by sharing customer insights, 
+  best practices, and strategic thinking frameworks
+
+Key Capabilities: Strategic & tactical agility, thriving in ambiguity, IC excellence navigating between strategy and 
+execution, integrated experience design, speed of innovation balancing rigor with rapid delivery
+
+
+Application Engineer – Solutions Consultant                                         June 2018 – September 2021
+
+Customer Insights & Problem Solving
+• Worked closely with enterprise customers to implement mission-critical software, gaining deep insight into 
+  workflows, pain points, and success metrics—grounding product decisions in real user behavior
+
+• Identified critical product gap causing 21% order allocation loss through analytics and customer research; 
+  partnered with Engineering to deliver fix that improved measurable customer outcomes, demonstrating conviction 
+  to solve hard problems and sense of urgency to drive impact
+
+• Built self-service automation tool (full-stack: Python UI and backend) that reduced user effort and improved 
+  operational efficiency—demonstrating hands-on technical capability to code solutions empowering customers
+
+Execution & Delivery Excellence
+• Supervised team implementing WES for leading U.S. retail companies, integrated with WCS, PLC, WMS systems on 
+  projects totaling $120M serving thousands of users
+
+• Led customer research and requirements gathering, designed intuitive use cases and process flows, conducted 
+  comprehensive testing (functional, regression, UAT, integration, performance), and trained users to drive adoption
+
+• Built progress tracking dashboards and operational reports using SQL, MicroStrategy, Tableau providing clear, 
+  actionable insights driving customer success at scale
+
+• Selected for UI/UX advisory panel providing hands-on product feedback grounded in real customer behavior and 
+  engagement patterns
+
+• Received 5 Go Beyond Bravo Awards for exceptional customer support, delivering critical milestones, and commitment 
+  to platform performance
+
+
+Project Coordinator Co-op                                                          August 2017 – April 2018
+
+• Built analytics dashboards tracking performance and capacity across 30+ initiatives, delivering data-driven 
+  insights for faster decision-making at scale
+
+• Published 25+ interactive dashboards using MicroStrategy and SQL for resource capacity analysis, operations 
+  planning, and performance visualization
+
+• Optimized 12+ complex SQL scripts analyzing large datasets, reducing query execution time by 95% demonstrating 
+  technical depth and hands-on execution capability
+
+
+PORTFOLIO: EDTECH PRODUCTS BUILT & LAUNCHED (0-1 Builder Experience)
+
+HH Courses (hhcourses.com) – AI-Powered Online Learning Platform
+Led end-to-end product development from idea to launch, building engaging online learning platform delivering 
+personalized, bite-sized, self-paced lessons serving learners globally. Integrated AI-powered features 
+including: intelligent content creation, image creation, quizzes with instant feedback, progress 
+tracking dashboards, leaderboards for peer motivation, and gamified streak mechanics reinforcing learning habits. 
+Designed integrated learner journey leveraging data and customer feedback to continuously improve engagement, 
+retention, and learner success outcomes. Demonstrates experience building AI-driven products, rapid prototyping and 
+iteration, and deep understanding of customer-centric learning experiences that scale to many users.
+
+Tafseel AI (tafseelsearch.com) – Conversational AI Learning Assistant
+Built and launched 0-1 AI-powered conversational search assistant making complex educational content accessible and 
+intuitive. Leveraged generative AI to solve critical customer pain point of navigating lengthy content, delivering 
+personalized, relevant insights through AI-first product experience. Demonstrates hands-on experience transitioning 
+from traditional UI to AI-driven product, building workflow automation and conversational AI tools, and using emerging 
+technologies to transform customer experience at scale.
+
+Quranic Grammar (quranic-arabic-rules.vercel.app) – Personalized Learning Platform
+Built and launched personalized language learning platform from idea to measurable impact, enabling professionals to 
+learn through bite-sized 15-minute daily lessons. Features progress tracking, adaptive content delivery, and 
+gamification optimized for learners balancing busy schedules with learning goals. Designed integrated end-to-end 
+learner experience driving program completion, retention, and positive impact on learners' lives. Demonstrates 
+customer-centric curiosity, rapid prototyping, and ability to leverage data to understand customer needs.
+
+Color Deen (colordeen.com) – AI-Generated Interactive Learning Content
+Created AI-generated, personalized educational content that blends interactive activity with meaningful learning. 
+Leverages generative AI to personalize experiences for individual learners, demonstrating conviction to use emerging 
+AI technologies (agentic AI, decision support) as force for unlocking human potential and expanding educational 
+opportunity at scale.
+
+Portfolio Impact: Proven track record designing end-to-end integrated experiences, taking products from 0-1 with 
+measurable results, thriving in startup-like environments with high ambiguity and velocity, and demonstrating 
+builder mindset focused on invention over optimization.
+
+
+EDUCATION
+
+The University of Texas at Dallas                                                                  May 2018
+M.S., Information Technology and Management | GPA: 3.88
+Concentration: Business Data Intelligence and Business Analysis
+
+Muffakham Jah College of Engineering and Technology                                               June 2016
+B.E., Electronics and Communication
+
+
+TECHNICAL SKILLS & TOOLS
+
+Product Management: Product Strategy, Roadmap Ownership, Product Vision, Strategic & Tactical Agility, 0-1 Product 
+Development, Cross-functional Leadership (Engineering, Design, Data teams), Agile/Scrum, User Research, Customer 
+Discovery, Data-driven Decision Making, A/B Testing & Experimentation, Rapid Prototyping, Go-to-Market Strategy, 
+Product Storytelling, Integrated Experience Design, Metrics & KPIs, Figma
+
+AI & Innovation: AI-powered Product Features, Generative AI Tools, Conversational AI, Workflow Automation, AI-driven 
+Decision Support, Agentic AI, AI-first Product Design, Rapid Innovation & Iteration, Emerging Technologies
+
+EdTech & Learning: Learning Platform Development, Personalized Learning Paths, AI-powered Assessment, Learner 
+Analytics, Student Success Metrics, Progress Tracking, Content Delivery Systems, Engagement & Retention Optimization, 
+Gamification, Learner Journey Design
+
+Development & Technical: Python, JavaScript, SQL, HTML5, Full-stack Development, AI Integration, API Integration, 
+Cloud Technologies
+
+Tools: JIRA, Figma, MS Azure, Elasticsearch, MicroStrategy, Tableau, Power BI, Grafana, MS Visio, Lucid Charts, 
+RabbitMQ, AppDynamics
+
+Analytics & Data: SQL (MS SQL Server, Oracle), Data Analysis, Cohort Analysis, User Behavior Analytics, Business 
+Intelligence, SAP HANA, Statistical Analysis (R, SAS)
+
+Certifications: Microsoft Technology Associate – Cloud Fundamentals, HTML5 App Development Fundamentals
+

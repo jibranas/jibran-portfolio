@@ -1,0 +1,64 @@
+Staff Product Manager
+United States
+About Coursera
+
+Coursera was founded in 2012 by Stanford professors Andrew Ng and Daphne Koller to make world-class learning accessible to everyone, everywhere. Today, over 190 million learners and 375+ university and industry partners use our platform to gain skills in fields like AI, data science, technology, and business. As a Delaware public benefit corporation and Certified B Corp, we’re driven by the belief that learning can transform lives through learning.
+
+Why Join Us
+
+At Coursera, we’re looking for inventors, innovators, and lifelong learners ready to shape the future of education. You’ll help build global programs and tools that power online learning for millions turning bold ideas into real impact. People who thrive here are customer-first builders who move fast, simplify ruthlessly, and iterate relentlessly on the metrics that matter. 
+
+We’re a globally distributed team and let you choose the best way you work, whether it's from home, a Coursera hub, or a co-working space near you. Our virtual hiring and onboarding make it easy to join us and start making an impact from anywhere. If you’re ready to make a global impact, scale unique products exclusive to Coursera, and expand your career horizons, apply below.
+
+Job Overview:
+
+As a Staff Product Manager, you will play a pivotal role in shaping Coursera’s product vision, delivering exceptional learner and partner experiences, and driving measurable business impact. You will operate at the intersection of strategic thinking and hands-on execution, navigating ambiguity while influencing cross-functional teams.
+
+Customer-Centric Curiosity: Exhibit deep curiosity to understand customers and all elements influencing their experience, offering comprehensive, integrated solutions that address real needs.
+Thriving in Ambiguity: Operate effectively in uncertain, fast-changing environments, as often found in startup-like situations.
+Balanced Skills vs. Domain Experience: While domain expertise is beneficial, strong intellectual capacity, curiosity, proactiveness, and solid foundational product skills enable quick adaptation even without prior domain exposure.
+Strategic & Tactical Agility: Seamlessly switch between defining long-term vision and deep-diving into execution details when required.
+IC Excellence: As an individual contributor, comfortably navigate between strategy and execution to deliver impact.
+Integrated Experience Design: A track record of designing end-to-end integrated experiences is a strong plus.
+Tool Familiarity: Familiarity with tools in the PM space, such as Jira, Figma or generative AI tools, though tool-specific experience is less crucial. A capable PM with strong core skills will learn quickly.
+Speed of Innovation: Demonstrates the ability to rapidly prototype, test, and iterate solutions to keep pace with evolving customer needs and emerging technologies. Balances speed with rigor to deliver impactful outcomes quickly.
+Responsibilities:
+
+As a Staff Product Manager, you will define and drive product strategy and own the roadmap for a high priority area of the Coursera platform, such as AI-powered assessment or agentic enterprise integration. 
+Translate customer insights and market trends into integrated solutions that can scale to serve millions of learners and customers around the world.
+Lead execution from ideation and analysis  through development and launch, delivering measurable outcomes.
+Partner with Engineering, Design, and Data teams to deliver AI-powered product features and experiences.
+Leverage data and customer feedback to inform decisions and continuously improve.
+Mentor peers and contribute to building a high-performing product organization.
+Qualifications: 
+
+You have experience building, using, or experimenting with AI-driven products, particularly in the areas of workflow automation, conversational AI, decision support, or agentic AI, and transitioning from traditional UI to AI-driven or AI-first product.
+You have a high bar across the board - from your own contributions to the people you work with, to the products you work on.
+Nice to haves: 
+
+You are the product leader who inspires colleagues to think bigger, look beyond safe bets and tackle challenges with conviction. You are a builder, not an optimizer.
+You are energized about solving hard problems and navigating ambiguity and rapid technology change.
+You have taken products from idea to launch (0-1), with proven results post-launch.  Experience working in a start-up or internal innovation environment with high ambiguity, velocity and ownership.
+You are deeply curious about customers and the positive impact your product could have on their lives.  You dive deep into data and feedback  to ground your understanding of their needs and experience using your products.
+You feel a sense of responsibility and urgency to invent the future of AI as a force for unlocking human potential and expanding opportunity.
+Compensation:
+
+This role is available in the following US Pay Zones:
+
+Zone 2: $180,00 - $228,000
+Zone 3: $167,000 - $209,000
+Zone 4: $156,000 - $195,000
+
+At Coursera, we offer competitive, zone-based pay aligned to your location, experience, and role level across four U.S. pay zones. Our total rewards package goes beyond salary, with comprehensive health and wellness benefits, bonus and RSU equity programs, and global perks designed to help you grow and thrive wherever you are.
+
+US Pay Zones:
+
+US-Z1: Bay Area
+US-Z2: NYC and Seattle Metro
+US-Z3: CA, WA, NY, NJ, CO, CT, DC, GA, IL, MA, MD, OR, RI, TX, VA
+US-Z4: AK, AZ, DE, FL, HI, ID, IN, IA, KS, KY, MI, MN, MO, MT, NC, NV, NH, OH, OK, PA, SC, TN, UT, VT, WI
+If this opportunity interests you, you might like these courses on Coursera:
+
+Learning How To Learn
+Gen AI for Product Managers
+Coursera is an Equal Opportunity Employer committed to building a welcoming and inclusive workplace. We consider all qualified applicants without regard to legally protected characteristics and provide reasonable accommodations upon request at accommodations@coursera.org. Learn more in our CCPA Applicant Notice and GDPR Recruitment Notice.

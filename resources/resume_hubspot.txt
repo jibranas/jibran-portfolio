@@ -1,0 +1,188 @@
+Jibran Asif Shareef
+469.260.9579 | jibran1994@hotmail.com | linkedin.com/in/jibranasifshareef
+
+SUMMARY
+Senior Product Manager with strong analytical and problem-solving skills, driving data-driven product experiences from 
+concept to launch. I excel at turning customer data into actionable insights through intuitive dashboards, reporting, 
+and data visualization tools. Passionate about simplifying complex workflows and building trustworthy, unified product 
+experiences that help users make confident decisions. Experienced collaborating with UX and Engineering to deliver 
+performant, AI-first solutions in fast-paced, product-led environments. Deep curiosity about user experience design, 
+experimentation, and continuous learning.
+
+PROFESSIONAL EXPERIENCE
+
+Honeywell Intelligrated, Alpharetta, GA
+Product Manager – Warehouse Automation Software                                    September 2021 – Present
+
+Reporting & Analytics Product Leadership
+• Support product vision and roadmap for operational dashboards and reporting features serving Fortune 500 enterprise 
+  clients and thousands of end users, translating customer insights and data into actionable product improvements
+
+• Enhanced ASRS operational dashboards with progress tracking, real-time KPIs, and performance metrics that improved 
+  user success, enabled data-driven troubleshooting, and helped users make confident decisions at scale
+
+• Built progress tracking dashboards capturing key business metrics using complex SQL queries in Grafana, 
+  Tableau, and Power BI—demonstrating deep experience with analytics, data visualization tools, and reporting systems
+
+• Designed intuitive operational reports that simplified complex data workflows, helping warehouse operations teams 
+  view, share, and act on critical performance insights quickly and efficiently
+
+Cross-functional Collaboration & Product Excellence
+• Collaborate closely with UX and Engineering partners to deliver intuitive, performant product experiences that 
+  balance technical trade-offs with user value and ensure consistent, unified experiences across platforms
+
+• Guide new product ideas from initial concept through launch using customer insights, data, and experimentation to 
+  identify pain points, discover opportunities, and drive meaningful customer impact
+
+• Use AI tools thoughtfully to accelerate decision-making, discovery, iteration, and product excellence, incorporating 
+  AI-powered decision support and intelligent planning into product roadmap
+
+• Led 0-1 product development for WES integration with third-party robotic vendors, driving go-to-market strategy 
+  from ideation through launch supporting $400M pipeline with proven measurable outcomes
+
+Data-Driven Decision Making & Experimentation
+• Leverage customer feedback, analytics to inform prioritization decisions, validate solutions, and 
+  continuously improve—demonstrating strong analytical skills and attention to detail
+
+• Use data, experimentation, and user research to deeply understand pain points, user behavior patterns, and success 
+  metrics, translating insights into product requirements that increase adoption and satisfaction
+
+• Participate in prioritization discussions balancing technical complexity with customer value, using data concepts 
+  like metrics, filtering, aggregation, and cohort analysis to drive decisions
+
+Communication & Stakeholder Management
+• Communicate progress and impact to partners and stakeholders with clarity and confidence, using strong storytelling 
+  to translate complex technical concepts into clear product vision and value propositions
+
+• Lead product demos to key customers, simplifying complex workflows and advocating for clear, trustworthy experiences 
+  that help users make informed decisions
+
+• Mentor peers and contribute to building high-performing product organization by sharing data insights, best 
+  practices, and analytical frameworks
+
+Product-Led Culture & Continuous Learning
+• Thrive in fast-paced, product-led environment demonstrating passion for learning, experimentation, and rapid 
+  iteration to deliver improvements that drive long-term product quality
+
+• Built intuitive, integrated workflows (WES + Pick/Put to Light) that improved accuracy, reduced errors, and created 
+  seamless self-service experiences at scale
+
+• Drive product strategy navigating ambiguity while ensuring reporting feels consistent and unified across multiple 
+  systems (WES, WMS, WCS, Business Intelligence)
+
+
+Application Engineer – Solutions Consultant                                         June 2018 – September 2021
+
+Analytics, Reporting & Data Visualization
+• Built comprehensive dashboards and operational reports for mission-critical warehouse software using SQL, 
+  MicroStrategy, and Tableau—delivering clear, actionable insights that drove customer success at scale
+
+• Published interactive dashboards capturing KPIs for resource capacity analysis, operations planning, and 
+  performance visualization, helping enterprise customers view and act on critical data
+
+• Designed intuitive data visualizations simplifying complex metrics, filtering, and aggregation to help users 
+  understand performance trends and make confident, data-driven decisions
+
+Customer Insights & Problem Solving
+• Worked closely with enterprise customers implementing mission-critical software, gaining deep insight into 
+  workflows, pain points, and success metrics through user research and analytics
+
+• Identified critical product gap causing 21% order allocation loss through data analysis and customer research; 
+  partnered with Engineering to deliver fix improving measurable customer outcomes
+
+• Built self-service automation tool (full-stack: Python UI and backend) that reduced user effort and improved 
+  operational efficiency—demonstrating technical capability and user-centric design thinking
+
+Cross-functional Delivery & Product Excellence
+• Supervised team implementing WES for leading U.S. retail companies, integrated with WCS, PLC, WMS systems on 
+  projects totaling $120M serving thousands of users in SaaS-like enterprise environment
+
+• Led customer research and requirements gathering, designed intuitive use cases and process flows, conducted 
+  comprehensive testing, and trained users to drive adoption and satisfaction
+
+• Selected for UI/UX advisory panel providing hands-on product feedback grounded in real customer behavior, user 
+  experience design principles, and data-driven insights
+
+• Received 5 Go Beyond Bravo Awards for exceptional customer support, delivering critical milestones, and commitment 
+  to platform performance and customer satisfaction
+
+
+Project Coordinator Co-op                                                          August 2017 – April 2018
+
+Data Analytics & Reporting Infrastructure
+• Built analytics dashboards tracking performance and capacity across 30+ initiatives using MicroStrategy, SQL, and 
+  data visualization best practices—delivering data-driven insights for faster decision-making
+
+• Published 25+ interactive weekly/monthly/quarterly dashboards for resource capacity analysis, Gantt charts, and 
+  operations planning, demonstrating expertise in reporting systems and metrics tracking
+
+• Optimized 12+ complex SQL scripts analyzing large datasets, reducing query execution time by 95%—showcasing strong 
+  analytical skills, attention to detail, and technical problem-solving
+
+• Refined database table design to resolve data inconsistencies, improving accuracy across 25+ reports and ensuring 
+  trustworthy data experiences at scale
+
+
+PORTFOLIO: PRODUCTS BUILT & LAUNCHED
+
+HH Courses (hhcourses.com) – Online Learning Platform with Analytics Dashboard
+Built and launched engaging online learning platform with comprehensive admin dashboard displaying learner analytics, 
+progress tracking metrics, engagement KPIs, and performance data. Features include: data visualization for learner 
+progress, leaderboards, interactive reports showing completion rates, quiz performance metrics, and streak analytics. 
+Designed intuitive reporting experience helping instructors view, share, and act on learner data to make confident 
+decisions about content effectiveness and student success. Demonstrates experience building analytics dashboards, 
+data visualization tools, and unified reporting experiences from concept to launch.
+
+Tafseel AI (tafseelsearch.com) – AI-Powered Search & Analytics
+Built AI-powered search assistant with analytics tracking user queries, search patterns, and engagement metrics. 
+Leveraged AI tools thoughtfully to accelerate product discovery and iteration while delivering personalized insights 
+through data-driven experiences. Demonstrates hands-on experience with AI-first product design and data concepts.
+
+Quranic Grammar (quranic-arabic-rules.vercel.app) – Learning Platform with Progress Tracking
+Built personalized learning platform featuring progress tracking dashboards, performance metrics, and data 
+visualization showing learner advancement. Designed intuitive reporting interface helping users understand their 
+learning journey through clear metrics and visual progress indicators.
+
+Color Deen (colordeen.com) – AI-Generated Interactive Content Platform
+Created AI-powered educational content platform using emerging AI tools to accelerate content generation and 
+personalization. Demonstrates curiosity about new technologies and comfort using AI thoughtfully to enhance product 
+experiences and user value.
+
+
+EDUCATION
+
+The University of Texas at Dallas                                                                  May 2018
+M.S., Information Technology and Management | GPA: 3.88
+Concentration: Business Data Intelligence and Business Analysis
+
+Muffakham Jah College of Engineering and Technology                                               June 2016
+B.E., Electronics and Communication
+
+
+TECHNICAL SKILLS & TOOLS
+
+Product Management: Product Vision & Roadmap, Product Strategy, Cross-functional Collaboration, User Research, 
+Customer Discovery, Data-driven Decision Making, A/B Testing & Experimentation, Prioritization, Go-to-Market Strategy, 
+Stakeholder Communication, Product-Led Culture, Agile/Scrum
+
+Analytics & Reporting: Dashboards, Data Visualization, Reporting Systems, Business Intelligence, KPIs & Metrics, 
+Performance Analytics, User Behavior Analytics, Cohort Analysis, Data Concepts (filtering, aggregation, metrics), 
+Operational Reports, Real-time Analytics
+
+Data & SQL: SQL (MS SQL Server, Oracle), Complex Query Optimization, Database Design, Data Analysis, Statistical 
+Analysis (R, SAS), Data Modeling, ETL concepts
+
+BI & Visualization Tools: MicroStrategy, Tableau, Power BI, Grafana, SAP BusinessObjects, SAP HANA, Excel (Advanced), 
+Interactive Dashboards
+
+Product & Design Tools: JIRA, Figma, MS Visio, Lucid Charts, Design Tools, Discovery Artifacts, Technical Documentation
+
+SaaS & Platforms: Enterprise SaaS environments, CRM concepts, Cloud Technologies (MS Azure), API Integration, 
+Platform Integration
+
+Development & Technical: Python, JavaScript, HTML5, Full-stack Development, AI Integration, Workflow Automation
+
+Additional Tools: Elasticsearch, RabbitMQ, AppDynamics, MS Project
+
+Certifications: Microsoft Technology Associate – Cloud Fundamentals, HTML5 App Development Fundamentals
+
