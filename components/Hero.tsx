@@ -40,45 +40,49 @@ export default function Hero() {
                 Jibran Asif Shareef
               </span>
             </h1>
-            {/* Desktop: show paragraph here */}
-            <div className="hidden md:block mt-4 text-right">
-              <p className="text-2xl text-gray-200 mb-2">
-                and I&apos;d love to be a {company.role || 'Product Manager'} at
-              </p>
-              <div className="flex items-center justify-end gap-3 text-3xl font-semibold text-white">
-                <span>{company.name}</span>
-                <span className="inline-flex items-center justify-center w-10 h-10 bg-white rounded-lg">
-                  <Image
-                    src={company.logo}
-                    alt={`${company.name} Logo`}
-                    width={32}
-                    height={32}
-                    style={{ display: 'inline' }}
-                  />
-                </span>
+            {/* Desktop: show paragraph here - only if company is set */}
+            {company && (
+              <div className="hidden md:block mt-4 text-right">
+                <p className="text-2xl text-gray-200 mb-2">
+                  and I&apos;d love to be a {company.role || 'Product Manager'} at
+                </p>
+                <div className="flex items-center justify-end gap-3 text-3xl font-semibold text-white">
+                  <span>{company.name}</span>
+                  <span className="inline-flex items-center justify-center w-10 h-10 bg-white rounded-lg">
+                    <Image
+                      src={company.logo}
+                      alt={`${company.name} Logo`}
+                      width={32}
+                      height={32}
+                      style={{ display: 'inline' }}
+                    />
+                  </span>
+                </div>
               </div>
-            </div>
+            )}
           </div>
         </div>
 
-        {/* Mobile: show paragraph below, spanning full width */}
-        <div className="md:hidden text-sm text-gray-200 text-center">
-          <p className="mb-2">
-            and I&apos;d love to be a {company.role || 'Product Manager'} at
-          </p>
-          <div className="flex items-center justify-center gap-2 text-xl font-semibold">
-            <span>{company.name}</span>
-            <span className="inline-flex items-center justify-center w-7 h-7 bg-white rounded-lg">
-              <Image
-                src={company.logo}
-                alt={`${company.name} Logo`}
-                width={24}
-                height={24}
-                style={{ display: 'inline' }}
-              />
-            </span>
+        {/* Mobile: show paragraph below, spanning full width - only if company is set */}
+        {company && (
+          <div className="md:hidden text-sm text-gray-200 text-center">
+            <p className="mb-2">
+              and I&apos;d love to be a {company.role || 'Product Manager'} at
+            </p>
+            <div className="flex items-center justify-center gap-2 text-xl font-semibold">
+              <span>{company.name}</span>
+              <span className="inline-flex items-center justify-center w-7 h-7 bg-white rounded-lg">
+                <Image
+                  src={company.logo}
+                  alt={`${company.name} Logo`}
+                  width={24}
+                  height={24}
+                  style={{ display: 'inline' }}
+                />
+              </span>
+            </div>
           </div>
-        </div>
+        )}
       </div>
     </section>
   );

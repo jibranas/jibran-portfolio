@@ -45,13 +45,9 @@ export const companies: Record<string, CompanyConfig> = {
   // },
 };
 
-export const defaultCompany: CompanyConfig = {
-  name: "Udacity",
-  logo: "/images/Udacity_logo.png",
-  role: "Product Manager",
-};
+export const defaultCompany: CompanyConfig | null = null;
 
-export function getCompanyConfig(companyKey?: string | null): CompanyConfig {
+export function getCompanyConfig(companyKey?: string | null): CompanyConfig | null {
   if (!companyKey) return defaultCompany;
   return companies[companyKey.toLowerCase()] || defaultCompany;
 }
